@@ -1,5 +1,14 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+temp_link
 
 # Prevent Large CSV Uploads
 *.csv
+
+# Jet Brains
+.idea
+
+# Data
+semantic_drone_dataset
+UAVid
+VDD
