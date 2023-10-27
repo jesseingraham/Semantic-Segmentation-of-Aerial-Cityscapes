@@ -9,6 +9,7 @@ temp_link
 .idea
 
 # Data
+data/
 semantic_drone_dataset
 UAVid
 VDD
