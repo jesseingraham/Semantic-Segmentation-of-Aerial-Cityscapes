@@ -1,2 +1,2 @@
 # Semantic-Segmentation-of-Aerial-Cityscapes
-A project to semantically segment a video feed from an aerial vehicle in a city scape in real time
+A project to semantically segment aerial cityscape imagery from an aerial vehicle.
